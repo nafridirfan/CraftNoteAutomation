@@ -10,6 +10,8 @@ CraftNote Assessment - Mobile Automation using Appium and Saucelabs.
 4. IDE or Terminal
 5. Appium Desktop Client (optional)
 6. **Saucelabs configuration to view the Virtual Device Emulator (Saucelabs is used here, because I do not want to depend on any Physical device as part of this     assessment. I tested everything in my Local using iPhone 11 Emulator on Xcode, but since this is an Assessment I did not want to have any dependancy. Hence using Saucelabs we can test both on iOS and Android** 
+### **IMPORTANT: While checking the results, please wait until the video is generated.Also once the test is finished the simulator will be active for another minute.(No point in waiting after the test is completed). 
+### ** IMPORTANT : If you check Test results page, it displays an exclamation mark(!) as an Error. This is because of the session being not active for a given timeframe (Saucelabs configurations)
 
 ### How to Run and view Results on Saucelabs?
 
