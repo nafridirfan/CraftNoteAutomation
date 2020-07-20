@@ -5,6 +5,7 @@ CraftNote Assessment - Mobile Automation using Appium and Saucelabs.
 
 1. Java
 2. Maven
+3. Node.js
 3. Appium (All details regarding installing Appium, starting the server etc are here: http://appium.io/docs/en/about-appium/getting-started/)
 4. IDE or Terminal
 5. Appium Desktop Client (optional)
