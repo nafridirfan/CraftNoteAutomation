@@ -14,14 +14,12 @@ public class LoginTests extends LoginPageElements{
 	
 	/*
 	 * All the setup required before running the test cases are done here. 
-	 * Please note that in BeforeTest I have setup for both iOS and Android platforms to ensure we can check cross platform testing. 
 	 */
 	
 	@BeforeTest
 	public void stepBeforeTest() {
 		try {
-			iOSSafariSetUp();
-			androidChromeSetUp();
+			iOSSafariSetUp();	// Change this to androidChromeSetup() to test on Chrome browser on an Android device.
 		}catch(Exception e){
 			e.getMessage();
 		}
