@@ -18,7 +18,7 @@ public class CommonFields {
 	
 	//Server Names
 	public static String APPIUM_SERVER = "http://127.0.0.1:4723/wd/hub";
-	public static String SAUCELABS_SERVER = "https://nafridirfan:dc996e1a-af26-4ded-a247-3caed4774fda@ondemand.eu-central-1.saucelabs.com:443/wd/hub";
+	public static String SAUCELABS_SERVER = "https://irfan_davalsab:679a4adb-1e47-40f5-bdb6-7a4161f41897@ondemand.eu-central-1.saucelabs.com:443/wd/hub";
 	
 	//System Under Test
 	public static String SUT = "https://app.mycraftnote.de/";
